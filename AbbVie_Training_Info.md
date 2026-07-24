@@ -14,4 +14,4 @@ Please create a duplicate of this Venn Diagram App, and append "TEST" to the end
 ##################################################################################################################################    
 # Modify the Venn Diagram App    
 ##################################################################################################################################    
-Please modify the code to add a field to include a title for the plot and the ability to change the font for all text present on the diagram.    
+Please modify the code to add a field to include a title for the plot and the ability to change the font.    
